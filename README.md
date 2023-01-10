@@ -5,3 +5,4 @@ eth
 btc
 bnb
 matic
+atom
